@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #85c8ff;
+    text-align: center;
+}
+h1{
+    margin: 20px;
+    font-size: 20px;
+    color: #FFF;
+}
+#div-btn{
+    margin-top: 8px;
+}
+#botao{
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: #FFF;
+}
+main{
+    display:inline;
+
+}
+#div-frase{
+    display: inline-flex;
+    background-color: #184759;
+    margin: 20px;
+    padding: 15px;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(7, 7, 7, 0.377);
+}
+#frase{
+    color: #FFF;
+}
